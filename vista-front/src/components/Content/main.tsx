@@ -247,6 +247,7 @@ export const Components: React.FC = () => {
               fontSize="55px"
               lineHeight="normal"
               fontClassName={GoogleFont.passWithAnotherClass}
+              customID="about"
             >
               ABOUT US
             </SubtitleComponents.PinkFillSubTitle>
